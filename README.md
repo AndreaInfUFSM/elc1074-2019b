@@ -1,5 +1,5 @@
 # ELC1074 - Projeto de Software II - 2019b
-[Sobre a disciplina](#sobre-a-disciplina) | [Datas importantes](#datas-importantes) | [Projetos](#projetos)
+[Sobre a disciplina](#sobre-a-disciplina) | [Datas importantes](#datas-importantes)
 
 Segundo semestre de 2019  
 Professores: Andrea Schwertner Charão e Celio Trois  
