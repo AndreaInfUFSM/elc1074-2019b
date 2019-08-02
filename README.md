@@ -6,9 +6,9 @@ Professores: Andrea Schwertner Charão e Celio Trois
 
 ## Sobre a disciplina
 - [Dados da disciplina no Ementário UFSM](http://portal.ufsm.br/ementario/disciplina.html?disciplina=53503): objetivos, programa, bibliografia.
-- Slides [Edição Temática](https://docs.google.com/presentation/d/e/2PACX-1vS_0ypMm6yyEH3CogJWlSMQeTklZE4lEAZvpNCVGLae7f2OKAwXRhs2jOcr0011qZY3grTJkCF-6rTu/pub?start=false&loop=false&delayms=3000)
 - **Metodologia**: a disciplina será focada no desenvolvimento de um produto de software com características inovadoras na área de **Dados e Educação**, a partir da identificação de um problema e de clientes/usuários beneficiados com o produto. O desenvolvimento ocorrerá em duplas, com checkpoints semanais para entregas de código, demonstrações e revisões com orientador(a).
 - **Avaliação**: as notas serão individuais e baseadas nos resultados e contribuições em todos os checkpoints.
+- Edição temática: [Dados e Educação](https://docs.google.com/presentation/d/e/2PACX-1vS_0ypMm6yyEH3CogJWlSMQeTklZE4lEAZvpNCVGLae7f2OKAwXRhs2jOcr0011qZY3grTJkCF-6rTu/pub?start=false&loop=false&delayms=3000)
 
 ## Datas importantes
 
