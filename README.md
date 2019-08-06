@@ -16,6 +16,8 @@ Professores: Andrea Schwertner Charão e Celio Trois
 
 - **20/08 (terça-feira) a 23/08 (sexta-feira):** Validação/ajustes dos projetos e início das reuniões semanais com orientador(a).
 
+- **14/10 a 25/10:** Testes com usuários.
+
 - **28/11 (quinta-feira):** A partir das 13h30: apresentação final dos produtos.
 
 
